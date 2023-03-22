@@ -1,4 +1,3 @@
-a = "Hello world"
+a = "Change1"
 
-name = input("What is your name?\n")
-print(name)
+print(a)
